@@ -1,0 +1,32 @@
+stackbitVersion: ~0.3.0
+ssgName: nextjs
+nodeVersion: '12'
+publishDir: out
+dataDir: data
+models:
+  content_obj_cards_proyectos:
+    type: data
+    label: Content Obj Cards Proyectos
+    file: contentObjCardsProyectos.json
+    fields:
+      - type: list
+        name: cards-proyecto
+        label: Cards Proyecto
+        items:
+          type: object
+          fields:
+            - type: string
+              name: title
+              label: Title
+            - type: string
+              name: description
+              label: Description
+            - type: string
+              name: place
+              label: Place
+            - type: string
+              name: date
+              label: Date
+            - type: string
+              name: image
+              label: Image

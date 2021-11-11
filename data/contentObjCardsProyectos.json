@@ -1,0 +1,39 @@
+{
+	"cards-proyecto": [
+		{
+			"title": "App Dietario",
+			"description": "Aplicacion movil que nos ayuda a calcular el numero de calorias por dia de forma personalizada, ademas de conocer tu indice de masa corporal, gasto energetico y tasa metabolica basal.",
+			"place": "Agencia Digital Terrabionic - Servicio Social",
+			"date": "Enero - Julio, 2021",
+			"image": "https://firebasestorage.googleapis.com/v0/b/portafolio-79b05.appspot.com/o/card1%20(1).jpg?alt=media&token=5798500f-82e2-4dbb-b5e4-52dbd4b55638"
+		},
+		{
+			"title": "Pagina tributo | Steve Jobs",
+			"description": "Proyecto de diseño web que muestra un tributo a Steve Jobs. Creada en el curso de FreeCodeCamp - Responsive Web Design Certifications.",
+			"place": "Zeniaq Technologies - Practicas Profesionales.",
+			"date": "Agosto, 2021",
+			"image": "https://firebasestorage.googleapis.com/v0/b/portafolio-79b05.appspot.com/o/card2.png?alt=media&token=7ffe245f-c1ab-4dab-9635-63ee4cd82cec"
+		},
+		{
+			"title": "Portafolio Personal",
+			"description": "Proyecto de mi portafolio personal desarrollada usando frameworks de Next.JS y Chakra UI.",
+			"place": "Zeniaq Technologies - Practicas Profesionales.",
+			"date": "Agosto - Noviembre, 2021",
+			"image": "https://firebasestorage.googleapis.com/v0/b/portafolio-79b05.appspot.com/o/card4.png?alt=media&token=4b37d4b1-cbe2-4a0d-8b44-4eda3c5a2b58"
+		},
+		{
+			"title": "Asist-Proy",
+			"description": "Aplicacion de escritorio que ayuda a la gestion, planeacion y controlar tareas de proyectos de software. Ademas de implementar de BI en reportes y generar reportes dinamicos.",
+			"place": "RAXE-TECH - Proyecto Integrador.",
+			"date": "Agosto - Diciembre, 2020",
+			"image": "https://firebasestorage.googleapis.com/v0/b/portafolio-79b05.appspot.com/o/card3.png?alt=media&token=ded4d6cf-8f0d-4e4f-ba77-2604e71ffdee"
+		},
+		{
+			"title": "Proyecto CMO",
+			"description": "Aplicacion de escritorio que ayuda a realizar calculos de mano de obra, estimaciones de costo por proyecto y determinar que proyecto es mas factible por Cluster aplicando Inteligencia de negocios con PowerBI por medio de la herramienta de Microsoft Excel.",
+			"place": "Grupo Holcim - SQDesarrollo",
+			"date": "Enero - Julio, 2019",
+			"image": "https://firebasestorage.googleapis.com/v0/b/portafolio-79b05.appspot.com/o/card5.png?alt=media&token=1ce4777a-5b8a-43d7-81c6-3afcb41111ea"
+		}
+	]
+}
